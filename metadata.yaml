@@ -1,0 +1,25 @@
+_repo: Notes-Upon-Indigo_62008
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hayes, John L. (John Lord)
+    birthdate: 1812
+    deathdate: 1887
+    gutenberg_agent_id: '51727'
+    url: http://www.gutenberg.org/2009/agents/51727
+description: From "The Bulletin of the National Association of Wool Manufacturers."
+gutenberg_issued: '2020-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62008'
+  lccn: 08006457
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indigo'
+- !lcc 'TP'
+- GITenberg
+title: Notes Upon Indigo
+url: http://www.gutenberg.org/ebooks/62008
